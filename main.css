@@ -148,4 +148,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    max-height: 100px;
+    max-width: 100%;
 }
